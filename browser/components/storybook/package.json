@@ -25,6 +25,6 @@
     "babel-loader": "^8.2.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "storybook": "^7.6.4"
+    "storybook": "^10.2.12"
   }
 }
